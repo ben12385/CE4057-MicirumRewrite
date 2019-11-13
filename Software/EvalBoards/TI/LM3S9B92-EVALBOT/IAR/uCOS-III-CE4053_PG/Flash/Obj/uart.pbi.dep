@@ -1,0 +1,11 @@
+uart.pbi: \
+  C:\Users\Ben\Desktop\Software\CPU\LuminaryMicro\DriverLib\driverlib\uart.c \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\inc/hw_ints.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\inc/hw_memmap.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\inc/hw_sysctl.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\inc/hw_types.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\inc/hw_uart.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\driverlib/debug.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\driverlib/interrupt.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\driverlib/uart.h \
+  C:\Users\Ben\Desktop\Software\EvalBoards\TI\LM3S9B92-EVALBOT\IAR\uCOS-III-CE4053_PG\..\..\..\..\..\CPU\LuminaryMicro\DriverLib\driverlib/sysctl.h

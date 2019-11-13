@@ -1,0 +1,46 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[LMIFTDIDriver]
+LMI_ResetMode=0x00000000
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[DebugChecksum]
+Checksum=-1671836900
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\SCPImplementation.c}.182.20" 1 0 0 0 "" 0 ""
+Count=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "C:\Users\bchua010\Desktop\Source_Code_Lab_Version\Software\CPU\LuminaryMicro\DriverLib\driverlib\gpio.c" ""
+A1=_ "G:\CE4053\CE4053_PG\Micrium\Software\CPU\LuminaryMicro\DriverLib\driverlib\gpio.c" ""
+Count=2
+SuppressDialog=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
